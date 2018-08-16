@@ -52,7 +52,7 @@ image:
 
 3.4.3 Selección de modelos
 
-4. **Aplicaciones**
+4 **Aplicaciones**
 
 4.1 Visión
 
