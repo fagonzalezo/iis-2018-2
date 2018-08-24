@@ -32,7 +32,7 @@ image:
 				<td>
 					[Russell10] Chap 3 (<a href= "http://aima.eecs.berkeley.edu/slides-pdf/chapter03.pdf">slides</a>) <br>
 					[AI-edX] Agents and Search (<a href= "http://ai.berkeley.edu/slides/Lecture%202%20--%20Uninformed%20Search/SP14%20CS188%20Lecture%202%20--%20Uninformed%20Search.pptx">slides</a>) (<a href= "https://edge.edx.org/courses/course-v1:BerkeleyX+CS188x-SP16+SP16/courseware/a2dc8e2add91416a8f2a64410b3bf8e0/7c56230af88d467c9737344e2e76092e/">video</a>)<br>
-					Search methods (<a href= "https://github.com/fagonzalezo/is-2017-1/blob/master/search_methods.ipynb">Python notebook</a>)<br>
+					Solving problems by Searching (<a href= "https://github.com/aimacode/aima-python/blob/master/search.ipynb">Python notebook</a>)<br>
 				</td>
 				<td>
 				</td>
