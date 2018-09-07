@@ -48,10 +48,9 @@ image:
 					Métodos de búsqueda (<a href= "https://colab.research.google.com/drive/1SNaFH83fnDojM-v5MNyB2V27z3OjQ7Eb">Python notebook</a>)<br>
 				</td>
 				<td>
+				<a href= "https://github.com/fagonzalezo/iis-2018-2/blob/master/taller1.ipynb">Taller 1</a>
 				</td>
 			</tr>
-
-
 		</small>
 	</tbody>
 </table>
