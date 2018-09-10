@@ -38,7 +38,7 @@ image:
 				</td>
 			</tr>
 			<tr>
-				<td>Ago 27</td>
+				<td>Ago 27-Sep 3</td>
 				<td>2.4 Búsquedas de costo uniforme<br>
 					2.5 Búsqueda informada<br> 
 				</td>
@@ -51,6 +51,19 @@ image:
 				<a href= "https://github.com/fagonzalezo/iis-2018-2/blob/master/taller1.ipynb">Taller 1</a>
 				</td>
 			</tr>
+			<tr>
+				<td>Sep 10</td>
+				<td>3.1 Qué es aprendizaje de máquina<br>
+					3.2 Aprendizaje supervisado<br>
+				</td>
+				<td>
+					[Russell10] Sect 18.1 (<a href= "http://aima.eecs.berkeley.edu/slides-pdf/chapter18.pdf">slides</a>) <br>
+					An Introduction to Machine Learning (<a href= "intro-ml.pdf">slides</a>)<br>
+				</td>
+				<td>
+				</td>
+			</tr>
+
 		</small>
 	</tbody>
 </table>
