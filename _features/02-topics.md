@@ -28,9 +28,9 @@ image:
 
 3.2 Aprendizaje supervisado
 
-3.2.1 Clasificación lineal (regresión logística)
+3.2.1 Clasificación lineal
 
-3.2.2 Modelos probabilísticos
+3.2.2 Modelos probabilísticos (regresión logística, Naïve Bayes)
 
 3.2.3 Clasificación no lineal (k-nn, árboles de decisión)
 
