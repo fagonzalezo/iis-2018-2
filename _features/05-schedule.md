@@ -75,6 +75,7 @@ image:
 					Logistic Regression y Naïve Bayes (<a href= "https://colab.research.google.com/drive/1xMN55fOX46ftXkJaVlfVlramh7p715Ra">notebook</a>)<br>
 				</td>
 				<td>
+				<a href= "https://github.com/fagonzalezo/iis-2018-2/blob/master/practica1.ipynb">Práctica 1</a>
 				</td>
 			</tr>
 
