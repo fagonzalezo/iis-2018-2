@@ -56,7 +56,7 @@ image:
 				<td>Sep 10</td>
 				<td>3.1 Qué es aprendizaje de máquina<br>
 					3.2 Aprendizaje supervisado<br>
-					3.1.1 Clasificación lineal<br>
+					3.2.1 Clasificación lineal<br>
 				</td>
 				<td>
 					[Russell10] Sect 18.1, 18.2, 18.6 (<a href= "http://aima.eecs.berkeley.edu/slides-pdf/chapter18.pdf">slides</a>) <br>
@@ -67,7 +67,7 @@ image:
 				</td>
 			</tr>
 			<tr>
-				<td>Sep 17</td>
+				<td>Sep 17-24</td>
 				<td>3.2.2 Modelos probabilísticos (regresión logística, Naïve Bayes)<br>
 				</td>
 				<td>
@@ -78,7 +78,17 @@ image:
 				<a href= "https://github.com/fagonzalezo/iis-2018-2/blob/master/practica1.ipynb">Práctica 1</a>
 				</td>
 			</tr>
-
+			<tr>
+				<td>Oct 1</td>
+				<td>3.2.3 Clasificación no lineal (k-nn, árboles de decisión)<br>
+				</td>
+				<td>
+					[Russell10] Sect 18.3 (<a href= "http://aima.eecs.berkeley.edu/slides-pdf/chapter18.pdf">slides</a>) <br>
+					Clasificación no lineal, complejidad y sobreajuste (<a href= "https://drive.google.com/file/d/1MWWFcGqLJB_LvOoDFjXuEM9a8bvLjPy1/view?usp=sharing">notebook</a>)<br>
+				</td>
+				<td>
+				</td>
+			</tr>
 		</small>
 	</tbody>
 </table>
