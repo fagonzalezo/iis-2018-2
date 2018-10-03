@@ -87,6 +87,7 @@ image:
 					Clasificación no lineal, complejidad y sobreajuste (<a href= "https://drive.google.com/file/d/1MWWFcGqLJB_LvOoDFjXuEM9a8bvLjPy1/view?usp=sharing">notebook</a>)<br>
 				</td>
 				<td>
+				<a href= "https://github.com/fagonzalezo/iis-2018-2/blob/master/practica2.ipynb">Práctica 2</a>
 				</td>
 			</tr>
 		</small>
