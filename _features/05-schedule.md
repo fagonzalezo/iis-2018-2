@@ -90,6 +90,17 @@ image:
 				<a href= "https://github.com/fagonzalezo/iis-2018-2/blob/master/practica2.ipynb">Práctica 2</a>
 				</td>
 			</tr>
+			<tr>
+				<td>Oct 8</td>
+				<td>3.2.4 Support vector machines<br>
+				</td>
+				<td>
+					[Russell10] Sect 18.9 (<a href= "http://aima.eecs.berkeley.edu/slides-pdf/chapter18.pdf">slides</a>) <br>
+					Máquinas de vectores de soporte y selección de modelos (<a href= "https://colab.research.google.com/drive/1X4b_5FMHDs7EtbwPzw7YDeMF5V4pqoer">notebook</a>)<br>
+				</td>
+				<td>
+				</td>
+			</tr>
 		</small>
 	</tbody>
 </table>
