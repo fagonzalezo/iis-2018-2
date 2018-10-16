@@ -99,6 +99,7 @@ image:
 					Máquinas de vectores de soporte y selección de modelos (<a href= "https://colab.research.google.com/drive/1X4b_5FMHDs7EtbwPzw7YDeMF5V4pqoer">notebook</a>)<br>
 				</td>
 				<td>
+				<a href= "https://github.com/fagonzalezo/iis-2018-2/blob/master/taller2.ipynb">Taller 2</a>
 				</td>
 			</tr>
 		</small>
