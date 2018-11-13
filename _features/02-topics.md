@@ -38,6 +38,8 @@ image:
 
 3.2.5 Redes Neuronales
 
+3.2.6 Deep learning
+
 3.3 Aprendizaje no supervisado
 
 3.3.1 Reducción de la dimensionalidad

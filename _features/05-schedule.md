@@ -103,7 +103,7 @@ image:
 				</td>
 			</tr>
 			<tr>
-				<td>Oct 22</td>
+				<td>Nov 12</td>
 				<td>3.2.5 Redes neuronales<br>
 				</td>
 				<td>
@@ -112,6 +112,55 @@ image:
 					Redes neuronales (<a href= "https://colab.research.google.com/drive/1kRcUevDGI8_x6XabDDCLQPfRCA5usl3t">notebook</a>)<br>
 				</td>
 				<td>
+				</td>
+			</tr>
+			<tr>
+				<td>Nov 19</td>
+				<td>3.2.6 Deep learning<br>
+				</td>
+				<td>
+					Representation Learning and Deep Learning (<a href= "https://github.com/fagonzalezo/dl_tutorial_upv/raw/gh-pages/UPV-dl.pdf">slides</a>) <br>
+					<a href= "https://fagonzalezo.github.io/dl_tutorial_upv/">Representation Learning and Deep Learning Tutorial </a><br>
+				</td>
+				<td>
+				Taller 3
+				</td>
+			</tr>
+            <tr>
+				<td>Nov 26</td>
+				<td>
+				    3.3 Aprendizaje no supervisado <br>
+				    3.3.1 Reducción de la dimensionalidad <br>
+				</td>
+				<td>
+					Intro to PCA (<a href= "https://www.scribd.com/presentation/62790749/Intro-to-PCA">slides</a>)
+					<br>
+				</td>
+				<td>
+				Quiz 2
+				</td>
+			</tr>
+			<tr>
+				<td>Dic 3</td>
+				<td>4.6 Aprendizaje no supervisado (agrupamiento)<br>
+				</td>
+				<td>
+					[Alp10] Chap 7 (<a href= "http://www.cmpe.boun.edu.tr/~ethem/i2ml2e/2e_v1-0/i2ml2e-chap7-v1-0.pdf">slides</a>)
+					<br>
+					<a href= "KMeans.pdf">K-Means</a>
+				</td>
+				<td>
+				</td>
+			</tr>
+			<tr>
+				<td>Dic 10</td>
+				<td>
+				</td>
+				<td>
+				</td>
+				<td>
+				    Examen <br>
+					Proyecto final (dependiendo de una extensión del calendario, podría ser movido a Enero)
 				</td>
 			</tr>
 		</small>
