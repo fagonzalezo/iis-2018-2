@@ -150,6 +150,7 @@ image:
 					<a href= "KMeans.pdf">K-Means</a>
 				</td>
 				<td>
+				Práctica 3
 				</td>
 			</tr>
 			<tr>
