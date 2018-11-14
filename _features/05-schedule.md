@@ -107,6 +107,7 @@ image:
 				<td>3.2.5 Redes neuronales<br>
 				</td>
 				<td>
+					<a href= "https://www.youtube.com/watch?v=KCMHzif64CM">Video clase Nov 14</a> <br>
 					[Russell10] Sect 18.6 (<a href= "http://aima.eecs.berkeley.edu/slides-pdf/chapter18.pdf">slides</a>) <br>
 					[Alp10] Chap 11  (<a href= "https://www.cmpe.boun.edu.tr/~ethem/i2ml2e/2e_v1-0/i2ml2e-chap11-v1-0.pdf">slides</a>) <br>
 					Redes neuronales (<a href= "https://colab.research.google.com/drive/1kRcUevDGI8_x6XabDDCLQPfRCA5usl3t">notebook</a>)<br>
