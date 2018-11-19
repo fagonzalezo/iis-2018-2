@@ -120,7 +120,8 @@ image:
 				<td>3.2.6 Deep learning<br>
 				</td>
 				<td>
-					Representation Learning and Deep Learning (<a href= "https://github.com/fagonzalezo/dl_tutorial_upv/raw/gh-pages/UPV-dl.pdf">slides</a>) <br>
+					<a href= "https://www.youtube.com/watch?v=cKcyOzIPMu0">Video clase Nov 19</a> <br>
+					Introduction to Deep Learning and Applications (<a href= "https://github.com/albahnsen/AppliedDeepLearningClass/blob/master/presentations/DL-introduction.pdf">slides</a>) <br>
 					<a href= "https://fagonzalezo.github.io/dl_tutorial_upv/">Representation Learning and Deep Learning Tutorial </a><br>
 				</td>
 				<td>
