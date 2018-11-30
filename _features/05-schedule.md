@@ -127,7 +127,7 @@ image:
 					Neural Networks in Keras (<a href= "https://colab.research.google.com/drive/1CjkEzZfvhzqKR9Qm9O7wdBeeJui5cpXc">notebook</a>)
 				</td>
 				<td>
-				Taller 3
+				<a href= "https://github.com/fagonzalezo/iis-2018-2/blob/master/taller3.ipynb">Taller 3</a>
 				</td>
 			</tr>
             <tr>
