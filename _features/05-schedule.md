@@ -116,7 +116,7 @@ image:
 				</td>
 			</tr>
 			<tr>
-				<td>Nov 19</td>
+				<td>Nov 19-26</td>
 				<td>3.2.6 Deep learning<br>
 				</td>
 				<td>
@@ -131,21 +131,23 @@ image:
 				</td>
 			</tr>
             <tr>
-				<td>Nov 26</td>
+				<td>Dic 3</td>
 				<td>
 				    3.3 Aprendizaje no supervisado <br>
 				    3.3.1 Reducción de la dimensionalidad <br>
 				</td>
 				<td>
+					<a href= "https://www.youtube.com/watch?v=EX1397RTcEs">Video clase Nov 19</a> <br>
 					Intro to PCA (<a href= "https://www.scribd.com/presentation/62790749/Intro-to-PCA">slides</a>)
 					<br>
+					Reducción de la dimensionalidad con PCA (<a href= "https://colab.research.google.com/drive/1OkKmpogSHLQNku7NeiaUODfk_l2OdUSj">notebook</a>)
 				</td>
 				<td>
 				Quiz 2
 				</td>
 			</tr>
 			<tr>
-				<td>Dic 3</td>
+				<td>Dic 5</td>
 				<td>4.6 Aprendizaje no supervisado (agrupamiento)<br>
 				</td>
 				<td>
