@@ -137,7 +137,7 @@ image:
 				    3.3.1 Reducción de la dimensionalidad <br>
 				</td>
 				<td>
-					<a href= "https://www.youtube.com/watch?v=EX1397RTcEs">Video clase Nov 19</a> <br>
+					<a href= "https://www.youtube.com/watch?v=EX1397RTcEs">Video clase Dic 3</a> <br>
 					Intro to PCA (<a href= "https://www.scribd.com/presentation/62790749/Intro-to-PCA">slides</a>)
 					<br>
 					Reducción de la dimensionalidad con PCA (<a href= "https://colab.research.google.com/drive/1OkKmpogSHLQNku7NeiaUODfk_l2OdUSj">notebook</a>)
