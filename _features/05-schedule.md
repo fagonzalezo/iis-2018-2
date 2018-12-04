@@ -140,10 +140,10 @@ image:
 					<a href= "https://www.youtube.com/watch?v=EX1397RTcEs">Video clase Dic 3</a> <br>
 					Intro to PCA (<a href= "https://www.scribd.com/presentation/62790749/Intro-to-PCA">slides</a>)
 					<br>
+					A tutorial on principal component analysis (<a href= "https://www.cs.princeton.edu/picasso/mats/PCA-Tutorial-Intuition_jp.pdf">pdf</a>)
 					Reducción de la dimensionalidad con PCA (<a href= "https://colab.research.google.com/drive/1OkKmpogSHLQNku7NeiaUODfk_l2OdUSj">notebook</a>)
 				</td>
 				<td>
-				Quiz 2
 				</td>
 			</tr>
 			<tr>
@@ -156,18 +156,19 @@ image:
 					<a href= "KMeans.pdf">K-Means</a>
 				</td>
 				<td>
-				Práctica 3
 				</td>
 			</tr>
 			<tr>
-				<td>Dic 10</td>
+				<td>Ene 21</td>
 				<td>
 				</td>
 				<td>
 				</td>
 				<td>
-				    Examen <br>
-					Proyecto final (dependiendo de una extensión del calendario, podría ser movido a Enero)
+					Práctica 3 (Ene 21)
+					Quiz 2 (Ene 23)
+				    Examen (Ene 30)<br>
+					Proyecto final (Mar 4) 
 				</td>
 			</tr>
 		</small>
