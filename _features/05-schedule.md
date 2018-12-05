@@ -148,12 +148,14 @@ image:
 			</tr>
 			<tr>
 				<td>Dic 5</td>
-				<td>4.6 Aprendizaje no supervisado (agrupamiento)<br>
+				<td>3.3.2 Clustering (agrupamiento)<br>
 				</td>
 				<td>
+					<a href= "https://www.youtube.com/watch?v=6I7pWdW1KSE">Video clase Dic 5</a> <br>
 					[Alp10] Chap 7 (<a href= "http://www.cmpe.boun.edu.tr/~ethem/i2ml2e/2e_v1-0/i2ml2e-chap7-v1-0.pdf">slides</a>)
 					<br>
-					<a href= "KMeans.pdf">K-Means</a>
+					<a href= "KMeans.pdf">K-Means</a><br>
+					Agrupamiento (<a href= "https://colab.research.google.com/drive/1vEji_QvLGfkDxQcwP4kjUnoLaMyHUe0C">notebook</a>)
 				</td>
 				<td>
 				</td>
