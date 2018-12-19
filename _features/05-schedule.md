@@ -122,9 +122,11 @@ image:
 				<td>
 					<a href= "https://www.youtube.com/watch?v=cKcyOzIPMu0">Video clase Nov 19</a> <br>
 					<a href= "https://www.youtube.com/watch?v=EiuDcFE_5pM">Video clase Nov 21</a> <br>
+					<a href= "https://www.youtube.com/watch?v=LlL5GxRlsa8">Video clase Nov 26</a> <br>
 					Introduction to Deep Learning and Applications (<a href= "https://github.com/albahnsen/AppliedDeepLearningClass/blob/master/presentations/DL-introduction.pdf">slides</a>) <br>
 					<a href= "https://fagonzalezo.github.io/dl_tutorial_upv/">Representation Learning and Deep Learning Tutorial </a><br>
-					Neural Networks in Keras (<a href= "https://colab.research.google.com/drive/1CjkEzZfvhzqKR9Qm9O7wdBeeJui5cpXc">notebook</a>)
+					Neural Networks in Keras (<a href= "https://colab.research.google.com/drive/1CjkEzZfvhzqKR9Qm9O7wdBeeJui5cpXc">notebook</a>)<br>
+					CNN for image classification in Keras (<a href= "https://colab.research.google.com/drive/1ARsaxmEL4I1-epUC4SxebGtljfsKmtbn">notebook</a>)
 				</td>
 				<td>
 				<a href= "https://github.com/fagonzalezo/iis-2018-2/blob/master/taller3.ipynb">Taller 3</a>
