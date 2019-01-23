@@ -172,7 +172,7 @@ image:
 					<a href= "https://github.com/fagonzalezo/iis-2018-2/blob/master/practica3.ipynb">Práctica 3</a> (Ene 21)<br>
 					Quiz 2 (Ene 23)<br>
 				    Examen (Ene 30)<br>
-					Proyecto final (Mar 4) <br>
+					Proyecto final (Feb 27) <br>
 				</td>
 			</tr>
 		</small>
